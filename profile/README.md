@@ -1,4 +1,4 @@
-![SchreibCode Logo auf transparentem Hintergrund](../img/channel-banner.jpg)
+![SchreibCode Banner](channel-banner.jpg)
 
 SchreibCode ist deine erste Anlaufstelle für deutsche Tutorials zum Thema 
 Web Development.
