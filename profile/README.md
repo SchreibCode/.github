@@ -1,4 +1,4 @@
-![SchreibCode Banner](channel-banner.jpg)
+![SchreibCode Banner](https://github.com/SchreibCode/.github/blob/main/profile/channel-banner.jpg)
 
 SchreibCode ist deine erste Anlaufstelle für deutsche Tutorials zum Thema 
 Web Development.
