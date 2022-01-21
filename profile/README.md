@@ -1,4 +1,4 @@
-<img src="./logo-long-dark.png" width="450" alt="SchreibCode logo"/>
+<img src="https://github.com/SchreibCode/.github/blob/main/profile/logo-long-dark.png" width="450" alt="SchreibCode logo"/>
 
 SchreibCode ist deine erste Anlaufstelle für deutsche Tutorials zum Thema
 Web Development.
