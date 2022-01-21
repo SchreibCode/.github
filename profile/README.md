@@ -1,6 +1,6 @@
-![SchreibCode Banner](https://github.com/SchreibCode/.github/blob/main/profile/logo-long-dark.png)
+<img src="https://github.com/SchreibCode/.github/blob/main/profile/logo-long-dark.png" width="450" alt="SchreibCode logo"/>
 
-SchreibCode ist deine erste Anlaufstelle für deutsche Tutorials zum Thema 
+SchreibCode ist deine erste Anlaufstelle für deutsche Tutorials zum Thema
 Web Development.
 
 ## YouTube
@@ -10,4 +10,3 @@ Du findest alle Videos auf unserem [YouTube Kanal](https://www.youtube.com/chann
 ## Schreib uns!
 
 Wir sind erreichbar unter: [info@schreibcode.de](mailto:info@schreibcode.de)
-
