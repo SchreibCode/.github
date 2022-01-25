@@ -1,4 +1,4 @@
-<img src="https://github.com/SchreibCode/.github/blob/main/profile/github-banner.png" alt="SchreibCode logo"/>
+<img src="https://github.com/SchreibCode/.github/blob/main/profile/github-banner.jpg" alt="SchreibCode logo"/>
 
 SchreibCode ist deine erste Anlaufstelle für deutsche Tutorials zum Thema
 Web Development.
